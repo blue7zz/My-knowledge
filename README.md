@@ -14,6 +14,8 @@
 
 2. 知识点：清楚概念，然后知道用法，再次知道原理
 
+3. 基础知识整理->面试题->纠错循环
+
 ## 基础
 ### 面试套路
 ### 如何准备面试
@@ -35,4 +37,12 @@
 ### 其他
 #### 面向对象思想
 #### 设计模式
+
+
+1. [Android 面试题](https://github.com/Timdk857/Android-Architecture-knowledge-2-)
+2. [计算机、Java相关基础知识](https://hadyang.com/interview/)
+3. [Android校招面试指南](https://github.com/LRH1993/android_interview)
+3. [刘望舒 知识体系](http://liuwangshu.cn/system/)
+
+
 

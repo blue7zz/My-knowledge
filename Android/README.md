@@ -5,6 +5,11 @@
 ### Application
 ### 四大组件
 #### Activity
+##### 文章
+
+1. [重学安卓：Activity 的快乐你不懂！](http://www.see-source.com/blog/300000040/10705.html)
+
+
 #### Service
 #### BroadcastReceiver
 #### ContentProvider
@@ -24,6 +29,9 @@
 ---------------------------
 ## 框架
 ### Jetpakc
+1. [Jetpack MVVM精讲](https://juejin.cn/post/6844903976240939021)
+2. [Jetpack MVVM开源项目](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice)
+
 #### ViewModel
 #### LiveData
 #### Lifecycles
@@ -32,6 +40,7 @@
 #### Paging
 #### WorkManager
 #### DataBinding
+#### Hilt
 ### MVC
 ### MVP
 ### MVVM

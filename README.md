@@ -16,6 +16,8 @@
 
 3. 基础知识整理->面试题->纠错循环
 
+4. 筛选出一些经常出现的知识点，集中整理。
+
 ## 基础
 ### 面试套路
 ### 如何准备面试
@@ -43,6 +45,7 @@
 2. [计算机、Java相关基础知识](https://hadyang.com/interview/)
 3. [Android校招面试指南](https://github.com/LRH1993/android_interview)
 3. [刘望舒 知识体系](http://liuwangshu.cn/system/)
+4. [知识体系 Github](https://github.com/henrymorgen/android-knowledge-system)
 
 
 

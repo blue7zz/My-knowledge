@@ -22,6 +22,7 @@
 #### 类加载过程
 --------------------
 ## 容器
+	着重ArrayList,LinkedList,HashMap,ArrayMap,LinedHashMap,ArrayBlockingQueue 其他简单需要理解概念和区别
 ### List
 #### ArrayList
 #### LInkedList

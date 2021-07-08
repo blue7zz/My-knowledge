@@ -10,10 +10,12 @@
 
 
 执行中：
-	1. 框架整理 7.6
+- 学习方法 7.8
+
+
 
 执行完毕：
-
+- 框架整理 7.6
 
 1. 方法：框架整理(后面会增加需求)->资料收集->目标定制->执行目标->检查结果
 
@@ -22,6 +24,7 @@
 3. 基础知识整理->面试题->纠错循环
 
 4. 筛选出一些经常出现的知识点，集中整理。
+------------------------------------------------------------
 
 ## 面试准备沟通
 ### 面试套路
@@ -51,7 +54,7 @@
 3. [Android校招面试指南](https://github.com/LRH1993/android_interview)
 3. [刘望舒 知识体系](http://liuwangshu.cn/system/)
 4. [知识体系 Github](https://github.com/henrymorgen/android-knowledge-system)
-
+5. [知识体系2 Github](https://github.com/JsonChao/Awesome-Android-Notebook)
 ## 交易
 
 ## 学习方法

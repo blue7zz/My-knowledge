@@ -57,7 +57,14 @@
 5. [知识体系2 Github](https://github.com/JsonChao/Awesome-Android-Notebook)
 ## 交易
 
-## 学习方法
+## [学习方法](./学习方法/)
+	
+	工欲善其事必先利其器
+	
+### 费曼学习
+### 思维导图
+### 西蒙学习
+### SQ3R
 
 
 
